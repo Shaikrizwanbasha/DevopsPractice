@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="DataTypes.data"><rhs name\="DataTypes.data"/></lhs><lhs name\="DataTypes.Variables"><rhs name\="DataTypes.Variables"/></lhs><lhs name\="DataTypes.Operators"><rhs name\="DataTypes.Operators"/></lhs><lhs name\="DataTypes.Constructor"><rhs name\="DataTypes.Constructor"/></lhs><lhs name\="Inheritance.Student"><rhs name\="Inheritance.Teachers"/></lhs><lhs name\="Inheritance.Teachers"><rhs name\="Inheritance.Teachers"/></lhs><lhs name\="Inheritance.Parent"><rhs name\="Inheritance.Parent"/><rhs name\="Inheritance.Grandparent"/><rhs name\="Inheritance.children"/></lhs><lhs name\="Inheritance.children"><rhs name\="Inheritance.children"/></lhs><lhs name\="Inheritance.Grandparent"><rhs name\="Inheritance.Grandparent"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

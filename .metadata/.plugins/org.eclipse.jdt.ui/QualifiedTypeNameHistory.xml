@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="DataTypes.data"/>
+    <fullyQualifiedTypeName name="DataTypes.Variables"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="DataTypes.Operators"/>
+    <fullyQualifiedTypeName name="DataTypes.Constructor"/>
+    <fullyQualifiedTypeName name="Inheritance.Student"/>
+    <fullyQualifiedTypeName name="Inheritance.Teachers"/>
+    <fullyQualifiedTypeName name="Inheritance.Test"/>
+    <fullyQualifiedTypeName name="Inheritance.Grandparent"/>
+    <fullyQualifiedTypeName name="Inheritance.Parent"/>
+    <fullyQualifiedTypeName name="Inheritance.children"/>
+</qualifiedTypeNameHistroy>
